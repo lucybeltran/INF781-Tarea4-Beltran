@@ -98,23 +98,3 @@ Capturas de pantalla
 Las capturas se encuentran en la carpeta:
 
 /docs/screenshots/
-
-Deben incluir:
-
-Formulario con CAPTCHA visible
-Intento exitoso de login
-Intento fallido de verificación CAPTCHA
-Licencia y autor
-practica 4: INF781 - Seguridad de Software
-Universidad: UATF
-Autor: lucy beltran
-
----
-
-Si quieres, el siguiente paso te dejo listo en 5 minutos es:
-
-- :contentReference[oaicite:0]{index=0}
-- :contentReference[oaicite:1]{index=1}
-- :contentReference[oaicite:2]{index=2}
-
-Solo dime: “github final”
