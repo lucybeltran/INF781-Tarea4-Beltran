@@ -83,7 +83,8 @@ Resultados esperados:
 
 Test de login con CAPTCHA válido: aprobado
 Test de login con CAPTCHA inválido: rechazado
-Decisiones de diseño
+
+## Decisiones de diseño
 
 Se eligió hCaptcha como mecanismo de protección debido a su facilidad de integración y su enfoque en privacidad. A diferencia de otras soluciones más complejas como reCAPTCHA v3, hCaptcha permite una implementación más directa sin necesidad de manejar sistemas de puntuación.
 
